@@ -8,6 +8,7 @@ The project is already configured with:
 - [sass](http://sass-lang.com/)
 - [gulp](http://gulpjs.com/) tasks
 - es6 using [babel](https://babeljs.io/)
+- [bower](https://bower.io/)
 - [karma](https://karma-runner.github.io) / [jasmine](https://jasmine.github.io/)
 - [protractor](http://www.protractortest.org/#/)
 - [travis](https://travis-ci.org/) integration
