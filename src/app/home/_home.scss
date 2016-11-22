@@ -1,0 +1,18 @@
+
+.home {
+    margin: 40px 80px;
+
+    &__locales {
+        text-align: right;
+
+        &__en,
+        &__fr {
+            cursor: pointer;
+            text-decoration: underline;
+
+            & + & {
+                margin-left: 10px;
+            }
+        }
+    }
+}
