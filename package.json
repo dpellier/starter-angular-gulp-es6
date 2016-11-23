@@ -20,6 +20,7 @@
   "scripts": {
     "build": "gulp build",
     "postinstall": "bower install",
+    "release": "bash scripts/release.sh",
     "start": "gulp serve",
     "test": "gulp test",
     "validate": "gulp lint && gulp test"

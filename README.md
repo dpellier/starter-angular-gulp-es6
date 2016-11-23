@@ -41,3 +41,18 @@ npm install
 `gulp lint`: validate that your code follow the guideline rules for `js` and `scss`, please resolve every error/warning before submitting pull requests
 
 `gulp`: print the above list, useful when you don't remind which task to use
+
+## Release
+
+If you wan to create a new Github release, run `npm run release <version>` at the root of your project
+
+Where version can be:
+- major: 1.0.0 => 2.0.0
+- minor: 1.0.0 => 1.1.0
+- patch: 1.0.0 => 1.0.1
+
+It will automatically update the `package.json`  and create a new tag on Github.
+
+/!\ Do not update the `package.json` version manually /!\
+
+Then you'll be able to go to Github in the release panel and write a release note on the last created tag.
