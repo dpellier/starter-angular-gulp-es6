@@ -17,8 +17,8 @@ The project is already configured with:
 ## Project installation
 
 ```
-git clone git@github.com:dpellier/starter-gulp-es6.git
-cd starter-gulp-es6
+git clone git@github.com:dpellier/starter-angular-gulp-es6.git
+cd starter-angular-gulp-es6
 npm install
 ```
 
