@@ -1,0 +1,1 @@
+.home{margin:40px 80px}.home__locales{text-align:right}.home__locales__en,.home__locales__fr{cursor:pointer;text-decoration:underline}.home__locales__en+.home__locales__en,.home__locales__en+.home__locales__fr,.home__locales__fr+.home__locales__en,.home__locales__fr+.home__locales__fr{margin-left:10px}
